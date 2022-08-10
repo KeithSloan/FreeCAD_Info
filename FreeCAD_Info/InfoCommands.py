@@ -72,7 +72,7 @@ class Information():
         FreeCADGui.Control.showDialog(panel)
     
     def GetResources(self):
-        return {'Pixmap': 'python', 'MenuText': 'Shape Inform', 'ToolTip': 'Shape Information'}
+        return {'Pixmap': 'python', 'MenuText': 'Shape Information', 'ToolTip': 'Shape Information'}
 
 
 
